@@ -1,4 +1,4 @@
 .env
-.app/literature-review.json
+app/literature-review.json
 .streamlit/secrets.toml
 
