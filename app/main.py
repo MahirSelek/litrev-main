@@ -1,4 +1,4 @@
-# app/main.py 
+# app/main.py  as the main entry point for the Research Assistant application.
 import streamlit as st
 import platform
 import requests
