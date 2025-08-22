@@ -1,3 +1,5 @@
+# app/elasticsearch_utils.py (Final Cloud-Aware Version)
+
 from elasticsearch import Elasticsearch, ConnectionError as ESConnectionError
 import logging
 from typing import List, Dict, Any
